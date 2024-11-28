@@ -1,0 +1,31 @@
+div{
+    text-align: center;
+}
+h1{
+    padding-top: 40px;
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+p{
+    font-size: 35px;
+    
+}
+button{
+    width: 200px;
+    height: 80px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+}
+#quoteText {
+    font-size: 30px;
+    font-style: italic;
+}
+#quoteAuthor {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
